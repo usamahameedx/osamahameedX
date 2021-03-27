@@ -23,11 +23,9 @@ Being a passionate Data Scientist, I aim to acquire the skills set that assist m
 
 
 - 📫 How to reach me:
-  - Gmail: muhammad.usama.se@gmail
+  - Gmail: muhammad.usama.ciit@gmail
   - LinkedIn: https://www.linkedin.com/in/m-usamahameed/
   - Twitter: http://www.twitter.com/m_osamahameed/
-  - Instagram: https://www.instagram.com/m_osamahameed/
-  - Contact: +923058219993
-  
+
   
 <!-- <a href="http://www.twitter.com/m_osamahameed/" rel="some text">![Foo](http://i.imgur.com/tXSoThF.png)</a>  -->
