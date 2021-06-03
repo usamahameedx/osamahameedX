@@ -1,7 +1,7 @@
 
 
 
-<h1 style="text-align:center"> Muhammad Usama Hameed is here :smirk: </h1>
+<h1 style="text-align:center"> Usama Hameed </h1>
 
 _"It’s your road, and yours alone, others may walk it with you, but no one can walk it for you."_
                                                                                        (Rumi)
@@ -27,12 +27,12 @@ Being a passionate Data Scientist, I aim to acquire the skills set that assist m
 
 - 📫 How to reach me:
   - Gmail: muhammad.usama.ciit@gmail
+  - Medium: https://osamahameedx.medium.com/
 
+<p align="center"><a href="https://www.linkedin.com/in/m-usamahameed/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
+<a href="https://www.youtube.com/channel/UCN_8HElJX2w0j0BdG3aPsQw/"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube"></a></p>
 
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](http://www.twitter.com/m_osamahameed/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/m-usamahameed/)
-
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/osamahameedX">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamahameedX&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -44,36 +44,6 @@ Being a passionate Data Scientist, I aim to acquire the skills set that assist m
 
 
 
-
-
-
-
-
-
-
-
-
-<!-- GitHub Stats -- >
-<!-- Pinned Repositories -- >
-
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-
-
-
-
-
-<!-- <a href="http://www.twitter.com/m_osamahameed/" rel="some text">![Foo](http://i.imgur.com/tXSoThF.png)</a>  -->
+<!--Footer-->
+<hr>
+<img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge">
