@@ -13,7 +13,7 @@
 ## Connect with me
   
 <p align="left">
-<a href="https://dev.to/osamahameedx" target="self"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="osamahameedx" height="30" width="40" /></a>
+<a href="https://dev.to/osamahameedx" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="osamahameedx" height="30" width="40" /></a>
 <a href="https://twitter.com/m_osamahameed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_osamahameed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/m-usamahameed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-usamahameed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9646827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9646827" height="30" width="40" /></a>
