@@ -80,17 +80,13 @@ Top languages is only a metric of the languages my public code consists of and d
 </a>
 
 <a href="https://github.com/osamahameedX">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=osamahameedX&show_icons=true&line_height=28&count_private=true&title_color=98fb00&text_color=ffffff&icon_color=98fb00&bg_color=1A2B34" alt="Osama's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=osamahameedX&show_icons=true&line_height=28&count_private=true&title_color=98fb00&text_color=ffffff&icon_color=98fb00&bg_color=1A2B34" alt="Usama Hameed GitHub Stats" />
 </a>
-<br>
-<br/>
- <b>Note:</b> Month Graph.
-<br/>
-<br/>
+<br> </br>
 
 <a href="https://github.com/osamahameedX/github-readme-activity-graph"><img alt="Usama Hameed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=osamahameedX&bg_color=0D1117&color=98fb00&line=5bec7a&point=98fb00&hide_border=true" /></a>
 
-<br/>
+<br>
 <br/>
 
 ## Connect with me
@@ -108,6 +104,8 @@ Top languages is only a metric of the languages my public code consists of and d
 <a href="https://www.leetcode.com/osamahameedx" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osamahameedx" height="30" width="40" /></a>
 </p>
 
+ <br> </br>
+ 
 ## ❤ Views and Followers
 ![](https://komarev.com/ghpvc/?username=osamahameedX&color=green)
 <a href="https://github.com/osamahameedX?tab=followers"><img src="https://img.shields.io/github/followers/osamahameedX?label=Followers&style=social" alt="GitHub Badge"></a>
