@@ -9,8 +9,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 😎 Data Engineer at Qorelogix
-- 🌱 I’m currently learning **Data Architecture | Social Entrepreneurship**
+- 😎 Data Engineer at Qorelogix.
+- 🌱 I’m currently learning **Data Architecture | Social Entrepreneurship.**
 
 - 📫 How to reach me **muhammad.usama.ciit@gmail.com**
 
@@ -68,7 +68,7 @@
 
 ## &#x1f4c8; My GitHub Stats
 
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
 
@@ -104,7 +104,6 @@
 <a href="https://www.hackerrank.com/osamahameedx" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="osamahameedx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/osamahameedx" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osamahameedx" height="30" width="40" /></a>
 </p>
-<br> </br>
 
 ## ❤ Views and Followers
 <a href="https://github.com/osamahameedX/github-profile-views-counter">
