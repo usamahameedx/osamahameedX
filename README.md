@@ -18,11 +18,10 @@
 - 📫 How to reach me **muhammad.usama.ciit@gmail.com**
 
 
+
 <br> </br>
 <p align="center">
-    <a href="https://github.com/osamahameedX/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=osamahameedX&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<a href="https://github.com/osamahameedX/github-readme-activity-graph"><img alt="Usama Hameed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=osamahameedX&bg_color=0D1117&color=98fb00&line=5bec7a&point=98fb00&hide_border=true" /></a>
 </p>
 
 <br> </br>
@@ -82,9 +81,6 @@ Top languages is only a metric of the languages my public code consists of and d
 <a href="https://github.com/osamahameedX">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=osamahameedX&show_icons=true&line_height=28&count_private=true&title_color=98fb00&text_color=ffffff&icon_color=98fb00&bg_color=1A2B34" alt="Usama Hameed GitHub Stats" />
 </a>
-<br> </br>
-
-<a href="https://github.com/osamahameedX/github-readme-activity-graph"><img alt="Usama Hameed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=osamahameedX&bg_color=0D1117&color=98fb00&line=5bec7a&point=98fb00&hide_border=true" /></a>
 
 <br>
 <br/>
