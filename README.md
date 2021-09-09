@@ -106,10 +106,12 @@ Top languages is only a metric of the languages my public code consists of and d
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/osamahameedX/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=osamahameedX">
-</a>
+![](https://komarev.com/ghpvc/?username=osamahameedX&color=green)
 <a href="https://github.com/osamahameedX?tab=followers"><img src="https://img.shields.io/github/followers/osamahameedX?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
+
 
 ## Support
 <p><a href="https://www.buymeacoffee.com/osamahameedX"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="osamahameedX" /></a></p><br><br>
