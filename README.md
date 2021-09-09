@@ -19,11 +19,36 @@
 ## 👨‍💻 Pervious Experience 
 
 - Amal Fellow (3 Month Leadership and Skills development Fellowship) by Stanford University and Amal Academy.
+
 - Data Analyst Internship at The Sparks Foundation. 
+
 - Junior NLP Engineer at Omdena.
+
 - Skillenza Campus Hustler of Skillenza.
+
 - Campus Ambassador of Data Science Jounerny Pakistan.
 - Campus Ambassador of Dice Analytics.
+<br> </br>
+## 📃 Certifications and Achievements
+
+- Udacity AI Programming with Python Nano Degree.
+
+- Machine Learning Stanford University.
+
+- What is Data Science? by IBM.
+
+- Python 101 for Data Science by IBM.
+- Python Data Sturcture by University of Michigan.
+- Introduction to Data and Data Science by 365 Data Science.
+- Data Science and Machine Learning by Dice Analytics.
+- Data Science Orientation by IBM.
+- What is Data Science? by Coursera.
+- Programming for Everybody (Getting Started with Python)by Coursera.
+- AI for Everyone by deeplearning.ai
+- The Art of Selling by Maxipower Marketing and Business Services.
+- Tableau 4.5 hour Crash Course by Udemy.
+
+
 
 
 <br> </br>
