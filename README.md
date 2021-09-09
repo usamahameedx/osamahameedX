@@ -19,10 +19,10 @@
 
 
 
+
 <br> </br>
-<p align="center">
-<a href="https://github.com/osamahameedX/github-readme-activity-graph"><img alt="Usama Hameed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=osamahameedX&bg_color=0D1117&color=98fb00&line=5bec7a&point=98fb00&hide_border=true" /></a>
-</p>
+
+[![Usama's github activity graph](https://activity-graph.herokuapp.com/graph?username=osamahameedX&bg_color=0D1117&color=98fb00&line=5bec7a&point=98fb00&area=true&hide_border=true)](https://github.com/osamahameedX/github-readme-activity-graph)
 
 <br> </br>
 
