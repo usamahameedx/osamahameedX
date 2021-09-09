@@ -9,7 +9,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 😎 Data Engineer at Qorelogix.
+- 😎 Currently working as a **Data Engineer at Qorelogix.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects.**
+
 - 🌱 I’m currently learning **Data Architecture | Social Entrepreneurship.**
 
 - 📫 How to reach me **muhammad.usama.ciit@gmail.com**
