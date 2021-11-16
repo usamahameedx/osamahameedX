@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️🧲 About Me
 
-- ✔️ Currently working as a **Data Engineer at Qorelogix.**
+- ✔️ Currently working as a **Data Engineer.**
 
 - 🎓 Software Engineer Graduated in 2021 from **COMSATS University Islamabad**, Pakistan.
 
