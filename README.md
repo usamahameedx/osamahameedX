@@ -9,15 +9,15 @@
 
 ## 🙋‍♂️🧲 About Me
 
-- ✔️ Currently working as a **Data Engineer.**
+- ✔️ Currently working as a **Principal Data Engineer.**
 
-- 🎓 Software Engineer Graduated in 2021 from **COMSATS University Islamabad**, Pakistan.
+- 🎓 Software Engineer Graduated from **COMSATS University Islamabad**, Pakistan.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
 - 🌱 I’m currently learning **Data Architecture | Social Entrepreneurship.**
 
-- 📫 How to reach me **muhammad.usama.ciit@gmail.com**
+- 📫 How to reach me **careerusama@gmail.com**
 
 
 
